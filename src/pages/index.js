@@ -1,11 +1,9 @@
 import React from "react"
 import { IntlProvider } from "react-intl"
 
-const IndexPage = ({ pageContext }) => {
-  console.log(pageContext)
-  const prefix = pageContext.prefix
+const IndexPage = () => {
   return (
-      <div>{prefix}</div>
+      <div>Hello World!</div>
   )
 }
 export default IndexPage
