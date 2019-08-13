@@ -1,5 +1,5 @@
 {
-  "name": "avicanna-puraearth",
+  "name": "react-intl-bug",
   "private": true,
   "version": "0.0.0",
   "license": "MIT",
@@ -16,6 +16,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/myplanetdigital/avicanna"
+    "url": "https://github.com/hmeinertrita/react-intl-bug"
   }
 }
